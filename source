@@ -1,0 +1,5 @@
+if game.PlaceId == 5306101736 then -- Pet Hatching 5
+loadstring(game:HttpGet("https://pastebin.com/raw/1cnuhy7q", true))()
+elseif game.PlaceId == 5977280685 then -- Ninja Legends 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PapierLP/RobloxScripts/main/Ninja%20Legends%202%20Script.lua", true))()
+end
